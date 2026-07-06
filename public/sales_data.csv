@@ -1,0 +1,329 @@
+﻿OrderID,Date,Product,Category,Region,Quantity,UnitPrice,CustomerName,Rating
+1293,2025-05-01,Wireless Mouse,Electronics,North,4,899,Karan Mehta,4.2
+1229,2025-06-21,Standing Desk,Furniture,Central,2,9099,Karan Mehta,3.8
+1288,01-Feb-2025,Fountain Pen,Stationery,Central,3,349,Manish Yadav,4.7
+1039,02-03-2025,Standing Desk,Furniture,East,3,8999,Sneha Reddy,3.6
+1207,2025-06-23,Wall Clock,Furniture,East,5,599,Karan Mehta,4.5
+1150,2025-01-25,Standing Desk,Furniture,Central,2,9099,Vikram Singh,3.3
+1145,20/05/2025,Wireless Mouse,Electronics,West,3,899,Manish Yadav,2.7
+1120,03-27-2025,Dumbbell Set,Fitness,North,4,2499,Divya Nair,4.2
+1317,16/05/2025,Fountain Pen,Stationery,North,2,349,Rohan Gupta,4.3
+1085,09/02/2025,Standing Desk,Furniture,South,1,9049,Pooja Desai,2.8
+1087,2025-03-21,Office Chair,Furniture,Central,1,5499,Isha Kapoor,3.9
+1162,06-15-2025,Standing Desk,Furniture,East,4,9049,Priya Patel,2.7
+1297,2025-03-16,Wireless Mouse,Electronics,West,1,799,Aditya Kumar,2.5
+1174,25-Feb-2025,Water Bottle,Fitness,North,2,499,Pooja Desai,3.6
+1066,2025-05-02,Standing Desk,Furniture,South,1,8999,Aarav Sharma,3.6
+1052,28-Jan-2025,Yoga Mat,Fitness,South,2,999,Vikram Singh,4.7
+1249,06-24-2025,Dumbbell Set,Fitness,South,1,2449,Manish Yadav,4.2
+1025,2025-03-26,Water Bottle,Fitness,North,1,349,Sneha Reddy,3.8
+1149,02-28-2025,LED Desk Lamp,Furniture,North,1,1299,Manish Yadav,3.0
+1033,04-10-2025,Wall Clock,Furniture,North,5,549,Rohan Gupta,4.8
+1075,17-Apr-2025,Yoga Mat,Fitness,South,2,849,Neha Joshi,3.3
+1263,04-May-2025,Bluetooth Speaker,Electronics,North,1,1999,Rohan Gupta,3.0
+1079,21-Jun-2025,Yoga Mat,Fitness,West,5,899,Aarav Sharma,4.3
+1089,2025-06-03,Sunglasses,Accessories,South,3,-1099,Priya Patel,4.5
+1319,02-09-2025,Sunglasses,Accessories,South,1,999,Sneha Reddy,3.0
+1051,02-15-2025,Backpack,Accessories,South,5,,Manish Yadav,4.5
+1260,2025-01-11,LED Desk Lamp,Furniture,South,4,1349,Rohan Gupta,2.7
+1147,02-Mar-2025,Standing Desk,Furniture,West,1,8949,Pooja Desai,3.9
+1277,03-18-2025,LED Desk Lamp,Furniture,East,5,1349,Rohan Gupta,3.8
+1016,17-Mar-2025,Running Shoes,Fitness,East,4,3249,Aditya Kumar,2.9
+1267,05-28-2025,Yoga Mat,Fitness,South,2,899,Pooja Desai,3.0
+1204,04-Jun-2025,Backpack,Accessories,Central,2,1899,Rahul Verma,3.8
+1091,28-Jan-2025,USB-C Hub,Electronics,East,5,1499,Aarav Sharma,4.9
+1093,04-22-2025,Wall Clock,Furniture,Central,1,599,Aditya Kumar,3.3
+1231,2025-03-06,Dumbbell Set,Fitness,North,5,2499,Rahul Verma,3.4
+1018,2025-02-11,Running Shoes,Fitness,Central,2,3299,Sneha Reddy,4.0
+1063,04-21-2025,Sunglasses,Accessories,North,3,999,Vikram Singh,3.7
+1143,24/06/2025,Bluetooth Speaker,Electronics,Central,5,2049,Pooja Desai,3.7
+1199,10-Jun-2025,Office Chair,Furniture,Central,1,5499,Rohan Gupta,3.7
+1067,13/04/2025,Wall Clock,Furniture,Central,5,599,Sneha Reddy,2.9
+1197,2025-01-20,Water Bottle,Fitness,East,4,399,Sneha Reddy,3.8
+1102,2025-03-14,Water Bottle,Fitness,West,2,449,Vikram Singh,4.6
+1253,21-Mar-2025,Running Shoes,Fitness,South,1,3249,Isha Kapoor,5.0
+1022,21-Mar-2025,Wall Clock,Furniture,Central,2,699,Aditya Kumar,
+1233,29-Apr-2025,Running Shoes,Fitness,East,2,3399,Pooja Desai,4.1
+1218,11/02/2025,Notebook Set,Stationery,West,2,-149,Arjun Rao,4.5
+1056,08/03/2025,Sunglasses,Accessories,Central,1,949,Ananya Iyer,4.0
+1310,22-Feb-2025,Sunglasses,Accessories,Central,1,1099,Divya Nair,2.7
+1032,04/05/2025,Wall Clock,Furniture,South,5,599,Rohan Gupta,4.7
+1119,16-Feb-2025,Office Chair,Furniture,West,1,,Arjun Rao,4.1
+1215,2025-04-23,Backpack,Accessories,Central,2,1999,Aditya Kumar,3.5
+1206,06/06/2025,Water Bottle,Fitness,West,2,449,Divya Nair,3.4
+1182,06-05-2025,Sunglasses,Accessories,Central,2,949,Aditya Kumar,2.6
+1272,04-03-2025,Yoga Mat,Fitness,North,2,899,Isha Kapoor,2.7
+1005,2025-04-28,Sunglasses,Accessories,East,3,949,Isha Kapoor,4.9
+1264,30-Mar-2025,LED Desk Lamp,Furniture,South,4,1399,Ananya Iyer,2.8
+1126,02-10-2025,USB-C Hub,Electronics,Central,2,1599,Aditya Kumar,3.9
+1109,31-May-2025,Yoga Mat,Fitness,West,1,899,Manish Yadav,3.3
+1083,21-Jan-2025,Fountain Pen,Stationery,West,5,349,Vikram Singh,2.5
+1131,18-Mar-2025,Backpack,Accessories,Central,1,1899,Vikram Singh,4.7
+1028,2025-06-17,Yoga Mat,Fitness,,1,999,Pooja Desai,2.7
+1115,01-Feb-2025,Backpack,  ACCESSORIES  ,East,3,1899,Isha Kapoor,4.2
+1294,17-Jun-2025,Office Chair,Furniture,North,2,5499,Arjun Rao,
+1000,27/02/2025,USB-C Hub,Electronics,North,3,1499,Aarav Sharma,4.3
+1257,24/03/2025,Running Shoes,Fitness,South,2,3299,Vikram Singh,
+1013,05-Feb-2025,Yoga Mat,Fitness,Central,4,899,Karan Mehta,2.7
+1046,02-03-2025,Sunglasses,Accessories,East,1,999,Aarav Sharma,2.9
+1316,19/06/2025,Wall Clock,Furniture,West,1,699,Karan Mehta,4.1
+1112,03-01-2025,Dumbbell Set,Fitness,Central,3,2449,Divya Nair,4.3
+1220,11-Mar-2025,Running Shoes,Fitness,North,1,3299,Vikram Singh,4.8
+1180,04/05/2025,LED Desk Lamp,Furniture,Central,2,1399,Sneha Reddy,4.6
+1142,16/04/2025,Fountain Pen,Stationery,West,2,399,Rohan Gupta,2.9
+1107,2025-03-19,USB-C Hub,Electronics,North,2,1549,Rohan Gupta,5.0
+1298,27-Apr-2025,LED Desk Lamp,Furniture,Central,4,1299,Priya Patel,4.7
+1154,27-Feb-2025,Fountain Pen,Stationery,North,two,349,Divya Nair,4.9
+1031,2025-05-19,Sunglasses,Accessories,Central,1,1099,Priya Patel,4.9
+1306,06-05-2025,Standing Desk,Furniture,South,2,,Divya Nair,3.5
+1192,2025-04-01,Running Shoes,  FITNESS  ,South,2,3399,Arjun Rao,3.5
+1082,25/03/2025,Dumbbell Set,Fitness,South,3,2499,Aarav Sharma,3.6
+1266,16-Mar-2025,Dumbbell Set,Fitness,South,two,2449,Rohan Gupta,4.7
+1156,04-08-2025,Dumbbell Set,Fitness,East,3,2549,Rahul Verma,2.8
+1099,05-22-2025,Standing Desk,Furniture,East,4,8999,Rahul Verma,3.6
+1048,30/05/2025,Wall Clock,Furniture,South,1,599,Arjun Rao,3.6
+1239,02-16-2025,Water Bottle,Fitness,West,5,449,Priya Patel,3.3
+1132,22-May-2025,Dumbbell Set,Fitness,Central,4,2499,Divya Nair,3.6
+1098,17/03/2025,Dumbbell Set,Fitness,West,1,2449,Aditya Kumar,3.5
+1224,01-May-2025,Sunglasses,Accessories,,2,1099,Neha Joshi,4.0
+1270,2025-05-18,Notebook Set,Stationery,West,1,149,Isha Kapoor,4.6
+1034,23-May-2025,Backpack,Accessories,West,5,1999,Vikram Singh,2.9
+1081,14-Jun-2025,LED Desk Lamp,Furniture,Central,1,1249,Rahul Verma,2.8
+1191,21/04/2025,Notebook Set,Stationery,East,1,149,Priya Patel,2.8
+1041,18/01/2025,Standing Desk,Furniture,Central,2,8999,Vikram Singh,3.4
+1275,10/01/2025,Running Shoes,  FITNESS  ,West,1,3249,Arjun Rao,4.3
+1159,02/03/2025,Wireless Mouse,Electronics,East,1,749,Divya Nair,3.5
+1261,2025-04-17,USB-C Hub,Electronics,Central,2,1549,Vikram Singh,3.7
+1077,04-01-2025,Backpack,Accessories,Central,1,1849,Karan Mehta,4.4
+1148,18-Jun-2025,LED Desk Lamp,Furniture,East,3,1249,Neha Joshi,3.2
+1232,27/03/2025,Bluetooth Speaker,Electronics,East,1,2049,Sneha Reddy,2.6
+1029,19/02/2025,Water Bottle,Fitness,East,1,399,Aditya Kumar   ,3.8
+1208,23-May-2025,USB-C Hub,Electronics,East,4,1449,Priya Patel,3.2
+1219,2025-05-22,Office Chair,Furniture,East,1,5499,Aarav Sharma,4.3
+1006,06-08-2025,Yoga Mat,Fitness,North,3,999,Arjun Rao,3.9
+1044,04/06/2025,Water Bottle,Fitness,Central,3,399,Rohan Gupta,4.3
+1165,26/03/2025,Backpack,Accessories,Central,2,1899,Sneha Reddy,4.5
+1201,2025-06-01,Dumbbell Set,Fitness,West,3,2499,Rahul Verma,3.4
+1152,05-19-2025,Fountain Pen,Stationery,West,2,349,Rohan Gupta,3.8
+1092,02-15-2025,USB-C Hub,Electronics,West,2,1499,Neha Joshi,4.0
+1088,2025-02-20,Wall Clock,Furniture,East,5,599,Isha Kapoor,4.0
+1146,06-Mar-2025,Fountain Pen,Stationery,Central,5,449,Vikram Singh,4.6
+1212,29-Mar-2025,Wireless Mouse,Electronics,East,2,799,Vikram Singh,3.0
+1094,29-Apr-2025,Standing Desk,  FURNITURE  ,North,1,8999,Vikram Singh,3.3
+1153,05-04-2025,Wall Clock,    FURNITURE    ,East,2,599,Pooja Desai,4.4
+1202,01-15-2025,Bluetooth Speaker,Electronics,East,1,1949,Divya Nair,4.6
+1042,2025-03-19,Office Chair,Furniture,West,2,5599,Pooja Desai,4.2
+1186,09/02/2025,Water Bottle,Fitness,East,1,349,Aditya Kumar,4.4
+1114,2025-02-06,Running Shoes,Fitness,South,2,3299,Rahul Verma,2.6
+1250,18/03/2025,Water Bottle,Fitness,North,2,399,Arjun Rao,4.3
+1173,04-Jun-2025,LED Desk Lamp,Furniture,Central,1,1349,Vikram Singh,2.7
+1296,17/04/2025,Standing Desk,Furniture,Central,1,8999,Neha Joshi,4.8
+1304,20/03/2025,Fountain Pen,Stationery,South,1,349,Aarav Sharma,3.5
+1289,01-11-2025,Yoga Mat,Fitness,East,2,899,Aditya Kumar,4.9
+1030,2025-03-05,Office Chair,Furniture,West,3,5499,Rohan Gupta,3.6
+1072,06-13-2025,Water Bottle,Fitness,West,3,399,Divya Nair,4.4
+1269,05-30-2025,Yoga Mat,Fitness,Central,2,899,Divya Nair,2.6
+1251,2025-02-27,Wall Clock,Furniture,South,4,649,Aditya Kumar,5.0
+1009,04/03/2025,Notebook Set,Stationery,North,2,199,Isha Kapoor,3.7
+1118,2025-03-10,USB-C Hub,Electronics,Central,1,1599,Isha Kapoor,4.4
+1253,21-Mar-2025,Running Shoes,Fitness,South,1,3249,Isha Kapoor,5.0
+1036,2025-01-15,Dumbbell Set,Fitness,Central,2,2499,Manish Yadav,4.6
+1053,03-31-2025,Sunglasses,Accessories,West,2,999,Sneha Reddy,4.6
+1188,30-Mar-2025,Yoga Mat,Fitness,East,2,849,Sneha Reddy,2.8
+1080,2025-05-17,Sunglasses,Accessories,West,2,1049,Manish Yadav,4.8
+1179,06-03-2025,USB-C Hub,Electronics,West,1,1499,Pooja Desai,3.4
+1200,22/03/2025,LED Desk Lamp,Furniture,Central,4,1399,Divya Nair,3.6
+1071,21-May-2025,Wall Clock,Furniture,West,2,599,Isha Kapoor,4.7
+1222,01-21-2025,Yoga Mat,Fitness,Central,2,899,Ananya Iyer,3.1
+1011,22/03/2025,Yoga Mat,Fitness,East,2,949,Priya Patel,4.1
+1069,2025-03-05,Water Bottle,Fitness,Central,1,449,Divya Nair,3.6
+1278,01-05-2025,Running Shoes,Fitness,Central,3,3299,Divya Nair,3.3
+1054,19-Feb-2025,Sunglasses,Accessories,South,1,1099,Sneha Reddy,3.3
+1058,12-Jan-2025,Running Shoes,Fitness,North,2,3299,Karan Mehta,2.5
+1010,2025-02-28,Notebook Set,Stationery,Central,4,99,Sneha Reddy,4.5
+1243,2025-02-02,Office Chair,Furniture,Central,1,5449,Rahul Verma,3.1
+1177,06/04/2025,Bluetooth Speaker,Electronics,North,1,2099,Karan Mehta,3.9
+1084,2025-01-18,Running Shoes,Fitness,North,2,3399,Ananya Iyer,4.4
+1302,24/03/2025,USB-C Hub,Electronics,North,2,-1499,Rohan Gupta,2.5
+1127,2025-04-29,Running Shoes,Fitness,West,2,3249,Priya Patel,4.1
+1021,05-Jun-2025,Dumbbell Set,Fitness,Central,3,2549,Rohan Gupta,4.9
+1236,06-17-2025,Backpack,Accessories,South,4,1849,Vikram Singh,3.2
+1221,2025-03-31,Office Chair,Furniture,West,2,5499,Priya Patel,3.5
+1014,2025-04-19,Wireless Mouse,Electronics,North,2,899,Rohan Gupta,3.5
+1121,05-07-2025,Sunglasses,Accessories,South,5,1099,Ananya Iyer,4.2
+1308,06-30-2025,LED Desk Lamp,Furniture,North,1,1349,Arjun Rao,2.7
+1305,03-17-2025,Running Shoes,Fitness,East,1,3399,Neha Joshi,4.0
+1295,2025-01-16,Standing Desk,Furniture,East,five,9099,Ananya Iyer,4.1
+1228,2025-04-20,LED Desk Lamp,Furniture,South,2,1299,Neha Joshi,4.0
+1268,20-Mar-2025,Office Chair,Furniture,West,1,5499,Arjun Rao,2.6
+1225,08-Feb-2025,Wall Clock,Furniture,North,3,599,Aarav Sharma,2.8
+1166,05-19-2025,LED Desk Lamp,Furniture,North,2,1299,Vikram Singh,4.5
+1076,2025-04-10,Dumbbell Set,  FITNESS  ,West,2,2499,Aarav Sharma,4.6
+1057,22-Mar-2025,Notebook Set,Stationery,,5,149,Priya Patel,4.0
+1062,05-26-2025,USB-C Hub,Electronics,West,2,1549,Rahul Verma,3.5
+1303,2025-03-19,Yoga Mat,Fitness,South,3,899,Divya Nair,3.2
+1252,04-03-2025,Backpack,Accessories,South,1,1849,Sneha Reddy,3.7
+1103,04/01/2025,Notebook Set,Stationery,South,2,149,Ananya Iyer,3.2
+1205,22/01/2025,Wireless Mouse,Electronics,West,4,899,Priya Patel,2.6
+1307,25/02/2025,Running Shoes,Fitness,West,2,3399,Aditya Kumar,4.2
+1101,31/01/2025,Standing Desk,Furniture,North,2,8999,Neha Joshi,3.0
+1024,31/05/2025,Fountain Pen,Stationery,,2,349,Isha Kapoor,2.5
+1237,23-Apr-2025,Backpack,Accessories,East,5,1999,Karan Mehta   ,3.3
+1064,2025-02-13,Dumbbell Set,Fitness,South,1,2599,Arjun Rao,3.2
+1176,2025-05-02,Fountain Pen,Stationery,East,2,449,Ananya Iyer,2.7
+1276,05/06/2025,Backpack,Accessories,,1,1899,Arjun Rao,3.3
+1049,23/02/2025,Wireless Mouse,Electronics,East,1,799,Ananya Iyer,4.2
+1061,17/03/2025,USB-C Hub,Electronics,West,5,1599,Ananya Iyer,3.0
+1247,30-Jun-2025,Wall Clock,Furniture,Central,3,599,Priya Patel,3.0
+1226,03-Mar-2025,Notebook Set,Stationery,South,1,99,Vikram Singh,4.1
+1024,31/05/2025,Fountain Pen,Stationery,,2,349,Isha Kapoor,2.5
+1027,18-Jun-2025,Dumbbell Set,Fitness,West,1,2449,Sneha Reddy,3.4
+1045,2025-01-14,Standing Desk,Furniture,East,1,8999,Arjun Rao,4.1
+1110,10/06/2025,LED Desk Lamp,Furniture,North,1,1299,Isha Kapoor,3.2
+1172,03-12-2025,Fountain Pen,Stationery,Central,1,349,Rohan Gupta,3.5
+1178,01-Feb-2025,LED Desk Lamp,Furniture,Central,4,1399,Arjun Rao,3.4
+1128,06-30-2025,Office Chair,Furniture,West,3,5549,Manish Yadav,3.5
+1190,24/02/2025,LED Desk Lamp,Furniture,North,2,1299,Aarav Sharma,4.4
+1073,2025-04-23,Running Shoes,Fitness,West,2,3299,Rahul Verma   ,4.3
+1309,21/02/2025,LED Desk Lamp,Furniture,North,2,1349,Aarav Sharma,2.9
+1070,06-02-2025,Backpack,Accessories,West,2,1949,Rahul Verma,4.9
+1234,17/03/2025,Backpack,Accessories,South,1,1849,Priya Patel,2.6
+1135,05-09-2025,Backpack,Accessories,South,1,1899,Divya Nair,4.7
+1196,21-Jan-2025,Bluetooth Speaker,Electronics,South,5,2049,Karan Mehta,4.7
+1003,28-Jun-2025,LED Desk Lamp,Furniture,East,1,1299,Aditya Kumar,3.4
+1223,2025-02-05,Fountain Pen,Stationery,North,4,349,Pooja Desai,3.2
+1141,2025-03-25,Water Bottle,Fitness,East,1,349,Manish Yadav,3.2
+1136,04/01/2025,Sunglasses,Accessories,West,2,999,Priya Patel,3.5
+1217,23-Jun-2025,Notebook Set,Stationery,West,2,149,Manish Yadav,3.7
+1004,24-Jan-2025,Office Chair,Furniture,South,4,5449,Aditya Kumar,2.7
+1292,21/06/2025,Water Bottle,Fitness,Central,2,349,Sneha Reddy,4.1
+1259,14/06/2025,Notebook Set,Stationery,Central,1,199,Arjun Rao,4.0
+1123,18-Jun-2025,Backpack,  ACCESSORIES  ,West,2,1849,Pooja Desai,3.5
+1281,24/06/2025,USB-C Hub,Electronics,Central,5,1499,Aditya Kumar,2.6
+1299,01-29-2025,Office Chair,Furniture,Central,3,5499,Divya Nair,2.9
+1283,2025-05-01,Water Bottle,Fitness,South,2,449,Karan Mehta,4.3
+1158,2025-04-15,USB-C Hub,Electronics,West,3,1599,Manish Yadav,2.8
+1315,08-Apr-2025,Backpack,Accessories,South,5,1899,Aditya Kumar,4.7
+1095,04-01-2025,Dumbbell Set,Fitness,East,1,2499,Rohan Gupta,3.4
+1116,07-May-2025,Water Bottle,Fitness,West,2,449,Vikram Singh,2.7
+1129,07-Feb-2025,Dumbbell Set,Fitness,West,1,2549,Sneha Reddy,3.0
+1055,14-Jun-2025,Sunglasses,Accessories,North,3,999,Aditya Kumar,4.2
+1002,16-Jun-2025,Running Shoes,Fitness,Central,2,3299,Aarav Sharma,3.1
+1038,05-30-2025,Wireless Mouse,Electronics,Central,5,899,Priya Patel,4.8
+1181,27/05/2025,Fountain Pen,Stationery,Central,1,349,Ananya Iyer,4.5
+1017,01-28-2025,Wireless Mouse,Electronics,East,2,849,Arjun Rao,
+1059,2025-04-21,Wall Clock,Furniture,Central,2,599,Rahul Verma,4.9
+1161,05/04/2025,LED Desk Lamp,Furniture,West,1,1399,Vikram Singh,3.6
+1235,12-Apr-2025,Standing Desk,Furniture,North,3,9049,Ananya Iyer,3.1
+1105,29/03/2025,LED Desk Lamp,Furniture,,1,1299,Divya Nair,4.9
+1001,2025-01-08,USB-C Hub,Electronics,Central,5,1449,Priya Patel,3.0
+1248,01/02/2025,LED Desk Lamp,Furniture,East,1,1299,Neha Joshi,4.6
+1012,03-05-2025,Yoga Mat,Fitness,West,3,899,Rohan Gupta,4.4
+1171,2025-04-24,Sunglasses,Accessories,West,1,999,Karan Mehta,4.7
+1209,21/01/2025,Water Bottle,  FITNESS  ,Central,2,399,Pooja Desai,4.8
+1019,2025-03-03,Dumbbell Set,Fitness,North,4,2499,Priya Patel,3.1
+1216,25/04/2025,USB-C Hub,Electronics,South,3,1599,Divya Nair,3.8
+1214,11/02/2025,Wall Clock,Furniture,Central,5,,Rohan Gupta,4.6
+1265,03-Mar-2025,Fountain Pen,Stationery,Central,1,349,Arjun Rao,2.8
+1134,08-Apr-2025,Yoga Mat,Fitness,North,1,999,Ananya Iyer,5.0
+1015,2025-01-03,LED Desk Lamp,Furniture,West,3,1349,Arjun Rao,4.2
+1244,09/01/2025,USB-C Hub,Electronics,East,5,1549,Ananya Iyer,4.2
+1138,23-Mar-2025,Sunglasses,Accessories,East,2,999,Pooja Desai,4.7
+1227,2025-06-02,LED Desk Lamp,Furniture,West,1,1299,Priya Patel,4.1
+1313,04-19-2025,Wireless Mouse,Electronics,South,1,749,Isha Kapoor,4.3
+1242,12/05/2025,Backpack,  ACCESSORIES  ,North,5,1899,Priya Patel,4.9
+1139,06-25-2025,Wireless Mouse,Electronics,Central,2,899,Priya Patel,5.0
+1279,2025-06-26,Bluetooth Speaker,Electronics,West,3,2099,Isha Kapoor,4.0
+1035,2025-03-22,Notebook Set,Stationery,South,2,99,Aarav Sharma,2.6
+1312,06-Jan-2025,Wireless Mouse,Electronics,Central,3,899,Divya Nair,3.1
+1090,06-19-2025,LED Desk Lamp,Furniture,North,2,1299,Ananya Iyer,2.7
+1290,07-Mar-2025,Bluetooth Speaker,Electronics,East,1,2099,Manish Yadav,3.0
+1187,19-Apr-2025,Wireless Mouse,Electronics,North,1,899,Vikram Singh,4.0
+1043,2025-03-09,Running Shoes,Fitness,East,1,3299,Manish Yadav,4.7
+1258,02-20-2025,Running Shoes,Fitness,East,1,3299,Pooja Desai,2.8
+1246,17-Feb-2025,USB-C Hub,Electronics,East,1,1449,Sneha Reddy,3.8
+1176,2025-05-02,Fountain Pen,Stationery,East,2,449,Ananya Iyer,2.7
+1213,2025-05-10,Office Chair,Furniture,South,3,5449,Priya Patel,4.2
+1185,29/03/2025,Running Shoes,Fitness,South,5,3299,Karan Mehta,3.4
+1256,2025-04-21,Sunglasses,Accessories,Central,2,999,Rahul Verma,4.6
+1210,24-May-2025,Notebook Set,Stationery,West,1,149,Rohan Gupta,4.1
+1195,2025-04-03,Fountain Pen,Stationery,South,1,449,Aditya Kumar,3.6
+1065,06-22-2025,USB-C Hub,Electronics,Central,1,1499,Ananya Iyer,3.1
+1086,06-29-2025,USB-C Hub,Electronics,North,2,1499,Isha Kapoor,4.4
+1175,2025-04-17,Standing Desk,Furniture,West,1,8999,Ananya Iyer,3.3
+1241,01-Apr-2025,Dumbbell Set,Fitness,East,1,2599,Divya Nair,3.2
+1167,03-02-2025,Bluetooth Speaker,Electronics,North,1,1999,Rohan Gupta,2.5
+1140,2025-06-30,Water Bottle,Fitness,North,two,499,Karan Mehta,3.6
+1255,05-13-2025,Fountain Pen,Stationery,North,1,449,Divya Nair,2.8
+1125,28-Jun-2025,Running Shoes,Fitness,South,3,3299,Manish Yadav,2.8
+1195,2025-04-03,Fountain Pen,Stationery,South,1,449,Aditya Kumar,3.6
+1117,2025-03-06,Wireless Mouse,Electronics,West,4,849,Neha Joshi,2.7
+1168,2025-01-30,Notebook Set,Stationery,North,5,199,Rohan Gupta,3.7
+1100,04-27-2025,Water Bottle,Fitness,Central,4,499,Ananya Iyer,3.3
+1078,26-Feb-2025,Sunglasses,Accessories,West,2,1049,Arjun Rao,3.0
+1151,2025-02-03,Dumbbell Set,Fitness,North,4,2599,Isha Kapoor,4.8
+1268,20-Mar-2025,Office Chair,Furniture,West,1,5499,Arjun Rao,2.6
+1280,14-Jan-2025,Notebook Set,Stationery,Central,2,249,Isha Kapoor,2.9
+1008,04-05-2025,Yoga Mat,Fitness,,4,899,Divya Nair,3.0
+1074,21/01/2025,Standing Desk,Furniture,East,4,9049,Ananya Iyer,2.9
+1113,10/06/2025,Water Bottle,Fitness,West,2,399,Priya Patel,3.6
+1023,31/01/2025,USB-C Hub,Electronics,East,2,1499,Divya Nair,3.1
+1163,19/06/2025,Notebook Set,Stationery,South,1,99,Priya Patel,4.1
+1160,2025-06-17,Fountain Pen,Stationery,Central,2,349,Karan Mehta,4.6
+1314,01-09-2025,Running Shoes,Fitness,North,1,3299,Manish Yadav,3.5
+1291,11/03/2025,Sunglasses,Accessories,Central,2,1099,Vikram Singh,2.8
+1163,19/06/2025,Notebook Set,Stationery,South,1,99,Priya Patel,4.1
+1240,25-Apr-2025,Bluetooth Speaker,Electronics,East,3,1999,Rahul Verma,2.9
+1050,09/02/2025,Fountain Pen,Stationery,Central,5,399,Manish Yadav,4.7
+1284,03-May-2025,Running Shoes,Fitness,South,4,3399,Arjun Rao,3.3
+1254,2025-05-28,Water Bottle,Fitness,West,5,399,Arjun Rao,2.8
+1262,04-Mar-2025,USB-C Hub,Electronics,Central,3,1499,Vikram Singh,3.2
+1184,2025-06-12,LED Desk Lamp,Furniture,West,2,1399,Priya Patel,2.7
+1133,09/04/2025,Fountain Pen,Stationery,South,2,399,Neha Joshi,4.6
+1157,06/06/2025,Standing Desk,Furniture,West,2,8999,Aarav Sharma,4.1
+1183,02/01/2025,Notebook Set,Stationery,East,4,149,Manish Yadav,4.7
+1273,2025-06-09,Running Shoes,Fitness,West,2,3299,Aditya Kumar,2.8
+1238,05-13-2025,Office Chair,Furniture,West,1,5499,Neha Joshi,4.5
+1194,30-Jan-2025,LED Desk Lamp,Furniture,West,5,1299,Neha Joshi,2.6
+1144,07-Mar-2025,LED Desk Lamp,Furniture,South,1,1399,Sneha Reddy,3.1
+1164,02/02/2025,LED Desk Lamp,Furniture,North,two,1299,Aarav Sharma,2.7
+1282,22-Mar-2025,Water Bottle,Fitness,North,1,399,Sneha Reddy,2.9
+1122,03-22-2025,Yoga Mat,Fitness,Central,1,849,Aarav Sharma,3.3
+1203,2025-04-29,Bluetooth Speaker,Electronics,North,2,1999,Isha Kapoor,3.6
+1318,29-Apr-2025,Standing Desk,Furniture,North,1,8999,Aditya Kumar,3.8
+1284,03-May-2025,Running Shoes,Fitness,South,4,3399,Arjun Rao,3.3
+1301,05-12-2025,Backpack,Accessories,South,5,1899,Rohan Gupta,2.7
+1060,02-01-2025,Wall Clock,Furniture,East,4,699,Isha Kapoor,3.8
+1311,03-Feb-2025,Running Shoes,Fitness,West,1,3299,Aditya Kumar,3.6
+1108,02/06/2025,Bluetooth Speaker,Electronics,Central,5,2049,Aditya Kumar,4.4
+1007,21/01/2025,Water Bottle,Fitness,North,2,399,Aarav Sharma,4.7
+1155,01-04-2025,Backpack,Accessories,Central,1,1899,Ananya Iyer,3.8
+1170,2025-01-08,Wireless Mouse,Electronics,Central,1,899,Vikram Singh,5.0
+1106,2025-05-06,Notebook Set,Stationery,West,1,149,Priya Patel,3.9
+1245,02-05-2025,Fountain Pen,Stationery,East,1,399,Divya Nair,3.5
+1111,20/01/2025,Bluetooth Speaker,Electronics,South,2,2049,Sneha Reddy,2.5
+1286,03-05-2025,Sunglasses,Accessories,East,1,999,Isha Kapoor,3.9
+1300,03-28-2025,Dumbbell Set,Fitness,East,2,2449,Neha Joshi,3.9
+1096,03/01/2025,Wall Clock,Furniture,Central,3,649,Neha Joshi,2.7
+1037,31/01/2025,Bluetooth Speaker,Electronics,Central,2,1999,Priya Patel,3.9
+1020,17/05/2025,LED Desk Lamp,Furniture,North,1,1249,Priya Patel,2.8
+1193,01-20-2025,Water Bottle,Fitness,North,1,399,Karan Mehta,3.9
+1137,28-Mar-2025,USB-C Hub,Electronics,South,1,1499,Priya Patel,4.1
+1026,27-May-2025,Notebook Set,Stationery,West,2,149,Sneha Reddy,3.1
+1097,26-Jun-2025,Water Bottle,Fitness,West,2,399,Divya Nair,4.1
+1274,04/04/2025,Bluetooth Speaker,Electronics,West,4,2049,Ananya Iyer,3.0
+1047,2025-01-03,Dumbbell Set,Fitness,Central,5,2549,Neha Joshi,2.7
+1189,2025-03-20,USB-C Hub,Electronics,Central,2,1599,Divya Nair,3.1
+1230,2025-05-10,Fountain Pen,Stationery,North,2,399,Arjun Rao,3.5
+1040,2025-05-25,Wall Clock,Furniture,North,1,649,Aarav Sharma,2.7
+1169,09/05/2025,Backpack,Accessories,East,1,1899,Arjun Rao,4.9
+1104,2025-05-06,Wireless Mouse,Electronics,Central,2,899,Vikram Singh,4.7
+1130,12-Mar-2025,LED Desk Lamp,Furniture,Central,2,1249,Neha Joshi,3.3
+1124,2025-04-24,Standing Desk,Furniture,Central,1,9099,Ananya Iyer,3.0
+1198,27/01/2025,Standing Desk,Furniture,East,2,8999,Ananya Iyer,3.1
+1068,26/02/2025,Water Bottle,Fitness,North,1,399,Manish Yadav,4.5
+1271,04-Apr-2025,Yoga Mat,Fitness,South,3,999,Manish Yadav,3.4
+1285,05-20-2025,Office Chair,Furniture,West,2,-5499,Manish Yadav,4.2
+1213,2025-05-10,Office Chair,Furniture,South,3,5449,Priya Patel,4.2
+1211,15-Jun-2025,Fountain Pen,Stationery,South,N/A,299,Rahul Verma,3.8
+1287,23-Feb-2025,Standing Desk,Furniture,East,3,9099,Aditya Kumar,3.3
