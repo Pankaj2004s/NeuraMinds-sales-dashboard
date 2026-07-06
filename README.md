@@ -26,3 +26,6 @@ npm run dev
 
 Open:
 http://localhost:5173
+
+## Demo Video
+https://drive.google.com/file/d/1Tnc_UwZGYo2ncPeBnwSJ_sX5zKzWVPoG/view?usp=drive_link
